@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/selenium java/selenium-server-4.1.4 (1).jar"/>
+	<classpathentry kind="lib" path="D:/apache poi/poi-bin-5.2.2-20220312/poi-bin-5.2.2/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/apache poi/jar_files/log4j-core-2.17.2.0001L.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/commons-io-2.6.jar" sourcepath="/selenium/src/selenium"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/docker-java-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/docker-java-api-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/docker-java-core-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/docker-java-transport-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/docker-java-transport-httpclient5-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/gson-2.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/httpclient5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/httpcore5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/httpcore5-h2-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/jar_files.zip"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/jna-5.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/dependancies jar of driver/webdrivermanager-5.3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

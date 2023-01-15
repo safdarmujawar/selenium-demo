@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-16T00:10:39 IST" name="CrossBrowserParallel" finished-at="2022-10-16T00:12:11 IST" duration-ms="91443">
+    <groups>
+    </groups>
+    <test started-at="2022-10-16T00:10:39 IST" name="Test" finished-at="2022-10-16T00:11:26 IST" duration-ms="46600">
+      <class name="crossbrowser.CrossBrowserTestin">
+        <test-method signature="loginTest(java.lang.String)[pri:0, instance:crossbrowser.CrossBrowserTestin@10e92f8f]" started-at="2022-10-16T00:10:39 IST" name="loginTest" finished-at="2022-10-16T00:11:26 IST" duration-ms="46521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- crossbrowser.CrossBrowserTestin -->
+    </test> <!-- Test -->
+    <test started-at="2022-10-16T00:10:39 IST" name="Test1" finished-at="2022-10-16T00:12:11 IST" duration-ms="91443">
+      <class name="crossbrowser.CrossBrowserTestin">
+        <test-method signature="loginTest(java.lang.String)[pri:0, instance:crossbrowser.CrossBrowserTestin@31c88ec8]" started-at="2022-10-16T00:10:39 IST" name="loginTest" finished-at="2022-10-16T00:12:11 IST" duration-ms="91370" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gecko]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- crossbrowser.CrossBrowserTestin -->
+    </test> <!-- Test1 -->
+  </suite> <!-- CrossBrowserParallel -->
+</testng-results>
